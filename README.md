@@ -12,8 +12,8 @@
      - [5. Monitorar e manter os recursos do Azure (10-15%)](#5-monitoramento)
   
  ## Materiais usados 
- - [Página do exame no site da Microsoft] (https://learn.microsoft.com/pt-br/certifications/exams/az-104/) 
- - [Blog Unicast] (https://unicast.com.br/) 
- - [Cursos Na Udemy]
- - [Simulado da Microsoft) (https://learn.microsoft.com/pt-br/certifications/exams/az-104/practice/assessment?assessment-type=practice&assessmentId=21)
+ - [Página do exame no site da Microsoft](https://learn.microsoft.com/pt-br/certifications/exams/az-104/) 
+ - [Blog Unicast](https://unicast.com.br/) 
+ - [Cursos Na Udemy](Udemy.com)
+ - [Simulado da Microsoft](https://learn.microsoft.com/pt-br/certifications/exams/az-104/practice/assessment?assessment-type=practice&assessmentId=21)
  - [Playlist no Youtube do Rapahel Andrade](https://youtube.com/playlist?list=PLRDE_Sn9kWTMi2UtSc4TzAQnWUTWTqrrR) 
