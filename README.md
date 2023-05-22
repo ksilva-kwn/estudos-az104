@@ -5,11 +5,11 @@
    - [Índice](#índice) 
    - [Materiais usados](#materiais-usados) 
    - [Habilidades medidas](#habilidades-medidas) 
-     - [1. Gerenciar identidades e governança do Azure](15%-20%) 
-     - [2. Implementar e gerenciar o armazenamento (15-20%)](#2-armazenamento) 
-     - [3. Implantar e gerenciar os recursos de computação do Azure](20-25%) 
-     - [4. Configurar e gerenciar redes virtuais (20-25%)](#4redes-virtuais) 
-     - [5. Monitorar e manter os recursos do Azure (10-15%)](#5-monitoramento)
+     - [1. Gerenciar identidades e governança do Azure (15-20%] 
+     - [2. Implementar e gerenciar o armazenamento (15-20%)]
+     - [3. Implantar e gerenciar os recursos de computação do Azure (20-25%)] 
+     - [4. Configurar e gerenciar redes virtuais (20-25%)]  
+     - [5. Monitorar e manter os recursos do Azure (10-15%)]
   
  ## Materiais usados 
  - [Página do exame no site da Microsoft](https://learn.microsoft.com/pt-br/certifications/exams/az-104/) 
