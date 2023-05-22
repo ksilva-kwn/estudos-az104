@@ -16,5 +16,4 @@
  - [Blog Unicast](https://unicast.com.br/) 
  - [Cursos Na Udemy]
  - [Simulado da Microsoft) (https://learn.microsoft.com/pt-br/certifications/exams/az-104/practice/assessment?assessment-type=practice&assessmentId=21)
- - [Playlist no Youtube do Rapahel Andrade](https://youtube.com/playlist?list=PLRDE_Sn9kWTMi2UtSc4TzAQnWUTWTqrrR) e seu [repositório](https://github.com/rcarneironet/exam70480) 
- - [Tutoriais no Youtube]
+ - [Playlist no Youtube do Rapahel Andrade](https://youtube.com/playlist?list=PLRDE_Sn9kWTMi2UtSc4TzAQnWUTWTqrrR) 
